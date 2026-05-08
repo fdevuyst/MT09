@@ -27,3 +27,4 @@ dependencies:
     # Print module version
     - watermark
     - jax
+    - nbgitpuller
